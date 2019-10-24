@@ -1,0 +1,132 @@
+[
+  {
+    "metadata": {
+      "id": "214cbfb9-7c06-4467-bad4-357ae83eb587",
+      "publisherId": "johnpapa.Angular2",
+      "publisherDisplayName": "johnpapa"
+    },
+    "name": "Angular2",
+    "publisher": "johnpapa",
+    "version": "8.1.1"
+  },
+  {
+    "metadata": {
+      "id": "fa57ae0e-d21e-40d8-a0bb-a58b5fd9ead3",
+      "publisherId": "ms-vscode.atom-keybindings",
+      "publisherDisplayName": "ms-vscode"
+    },
+    "name": "atom-keybindings",
+    "publisher": "ms-vscode",
+    "version": "3.0.6"
+  },
+  {
+    "metadata": {
+      "id": "5a6e2b21-1d61-4acd-b31b-907f9c23f18a",
+      "publisherId": "CoenraadS.bracket-pair-colorizer-2",
+      "publisherDisplayName": "CoenraadS"
+    },
+    "name": "bracket-pair-colorizer-2",
+    "publisher": "CoenraadS",
+    "version": "0.0.28"
+  },
+  {
+    "metadata": {
+      "id": "2aa040bf-c73a-455d-8946-5c6cc83b8019",
+      "publisherId": "wmaurer.change-case",
+      "publisherDisplayName": "wmaurer"
+    },
+    "name": "change-case",
+    "publisher": "wmaurer",
+    "version": "1.0.0"
+  },
+  {
+    "metadata": {
+      "id": "e337c67b-55c2-4fef-8949-eb260e7fb7fd",
+      "publisherId": "Shan.code-settings-sync",
+      "publisherDisplayName": "Shan"
+    },
+    "name": "code-settings-sync",
+    "publisher": "Shan",
+    "version": "3.4.3"
+  },
+  {
+    "metadata": {
+      "id": "25e38b8d-ff51-4c34-af36-b7b7961cf666",
+      "publisherId": "alexkrechik.cucumberautocomplete",
+      "publisherDisplayName": "alexkrechik"
+    },
+    "name": "cucumberautocomplete",
+    "publisher": "alexkrechik",
+    "version": "2.14.1"
+  },
+  {
+    "metadata": {
+      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
+      "publisherId": "eamodio.gitlens",
+      "publisherDisplayName": "eamodio"
+    },
+    "name": "gitlens",
+    "publisher": "eamodio",
+    "version": "10.1.1"
+  },
+  {
+    "metadata": {
+      "id": "93ecc089-f396-47b4-8676-7fa3bc156a2c",
+      "publisherId": "sysoev.language-stylus",
+      "publisherDisplayName": "sysoev"
+    },
+    "name": "language-stylus",
+    "publisher": "sysoev",
+    "version": "1.11.0"
+  },
+  {
+    "metadata": {
+      "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
+      "publisherId": "esbenp.prettier-vscode",
+      "publisherDisplayName": "esbenp"
+    },
+    "name": "prettier-vscode",
+    "publisher": "esbenp",
+    "version": "2.3.0"
+  },
+  {
+    "metadata": {
+      "id": "f0c5397b-d357-4197-99f0-cb4202f22818",
+      "publisherId": "ms-vscode-remote.remote-wsl",
+      "publisherDisplayName": "ms-vscode-remote"
+    },
+    "name": "remote-wsl",
+    "publisher": "ms-vscode-remote",
+    "version": "0.39.9"
+  },
+  {
+    "metadata": {
+      "id": "4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1",
+      "publisherId": "dracula-theme.theme-dracula",
+      "publisherDisplayName": "dracula-theme"
+    },
+    "name": "theme-dracula",
+    "publisher": "dracula-theme",
+    "version": "2.18.1"
+  },
+  {
+    "metadata": {
+      "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
+      "publisherId": "dbaeumer.vscode-eslint",
+      "publisherDisplayName": "dbaeumer"
+    },
+    "name": "vscode-eslint",
+    "publisher": "dbaeumer",
+    "version": "1.9.1"
+  },
+  {
+    "metadata": {
+      "id": "9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a",
+      "publisherId": "vscode-icons-team.vscode-icons",
+      "publisherDisplayName": "vscode-icons-team"
+    },
+    "name": "vscode-icons",
+    "publisher": "vscode-icons-team",
+    "version": "9.5.0"
+  }
+]
